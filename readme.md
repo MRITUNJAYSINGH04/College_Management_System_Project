@@ -112,9 +112,20 @@ Create a database named college in phpMyAdmin
 
 Import the SQL file
 
+
+
+
+
+""""""""""""""""""""""""""""""""""""""""""
 Default login:
 Email: superadmin@edufirm.com
 Password: admin
+""""""""""""""""""""""""""""""""""""""""""
+
+
+
+
+
 
 Create an .htaccess file at the root with:
 
